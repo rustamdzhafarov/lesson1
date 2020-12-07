@@ -1,6 +1,7 @@
 package ru.dzhafarov.java.core.lesson1;
 
 public class Cat implements Actions {
+    //кот
     private String name;
     private int runDistance;
     private int jumpHeight;

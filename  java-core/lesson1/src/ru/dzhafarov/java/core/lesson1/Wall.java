@@ -5,6 +5,7 @@ public class Wall extends Barrier {
     private int heigth;
 
     public Wall(String name, int heigth) {
+        //стена
         super(name);
 
         this.heigth = heigth;

@@ -1,6 +1,7 @@
 package ru.dzhafarov.java.core.lesson1;
 
 public class Human implements Actions {
+    //человек
     private String name;
     private int runDistance;
     private int jumpHeight;

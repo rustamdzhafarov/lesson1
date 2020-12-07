@@ -1,6 +1,7 @@
 package ru.dzhafarov.java.core.lesson1;
 
 public abstract class Barrier {
+    //препятствия
     private String name;
 
     public Barrier(String name) {

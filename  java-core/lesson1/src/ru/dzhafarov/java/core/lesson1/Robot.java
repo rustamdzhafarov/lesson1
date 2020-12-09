@@ -6,6 +6,7 @@ public class Robot implements Actions {
     private int jumpHeight;
 
     public Robot(String name, int distance, int jumpHeight) {
+        //робот
         this.name = name;
         this.runDistance = distance;
         this.jumpHeight = jumpHeight;

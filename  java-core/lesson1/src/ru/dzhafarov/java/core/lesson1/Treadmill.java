@@ -4,6 +4,7 @@ public class Treadmill extends Barrier {
     private int length;
 
     public Treadmill(String name, int length) {
+        //беговая дорожка
         super(name);
 
         this.length = length;
